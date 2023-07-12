@@ -1,0 +1,30 @@
+
+
+.logo1{
+    background-color: rgba(0, 0, 0, 0.689);
+}
+.logo1 span{
+    padding-left: 50%;
+    margin-bottom:1%;
+    color: azure;
+}
+.sub1{
+    padding-top: 30px;
+}
+.anchor a{
+    text-decoration: none;
+    color: black;
+    padding-left: 150px;
+    padding-bottom: 70px;
+    font-size: 22px;
+}
+.sub1 span{
+    width: 20px;
+    padding-left: 10%;
+}
+.sub1 input{
+    width: 100px;
+    
+    
+    
+}
